@@ -4,4 +4,8 @@ dist
 .rvmrc
 .ruby-version
 *.rbc
+download/*
+keynote/*
+rakelib/*
+src/*
 *~
